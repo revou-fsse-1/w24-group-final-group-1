@@ -4,9 +4,9 @@ An Event Tracker platform offers simplicity and user-friendliness. Our platform 
 
 Check out:
 
-Web:
-Repo:
-Progress:
+- Web:
+- Repo:
+- Progress:
 
 ## Concept
 
