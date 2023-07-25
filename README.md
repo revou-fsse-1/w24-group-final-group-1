@@ -22,7 +22,7 @@ Progress:
 
 ### Backend
 
-- NestJs
+- NestJs : Framework
 - PostgreSQL : Database management system
 - Prisma ORM : Database ORM
 - Swagger :
