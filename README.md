@@ -150,6 +150,7 @@ enum Status {
 - Tailwind : Styling
 - Shadcn/ui : Styled interactive components
 - React : UI library
+- Axios : fetching api
 - Vercel : App deployment
 
 ## Setup
