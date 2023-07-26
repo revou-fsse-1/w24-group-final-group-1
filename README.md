@@ -2,10 +2,18 @@
 
 An Event Tracker platform offers simplicity and user-friendliness. Our platform is designed to help you effortlessly discover and reminder events that match your interests.
 
+!!! NOTE !!!
+we are using our custom organization repo.. you can check our progress below.
+
 Check out:
 
 - Web:
-- Repo:
+
+- Our Organization Repo:
+
+1. Frontend : https://github.com/feastival/feastival-frontend
+2. Backend : https://github.com/feastival/feastival-backend
+
 - Progress:
 
 1. Figma : https://www.figma.com/file/wkys7TpKtRP2AcoYXtDvZo/FEASTIVAL?type=design&node-id=0-1&mode=design&t=RzWDwlGkI0PgVU4h-0
