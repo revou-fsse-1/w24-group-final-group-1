@@ -138,7 +138,9 @@ enum Status {
 - PostgreSQL : Database management system
 - Prisma ORM : Database ORM
 - DigitalOcean : Api deployment
-- Swagger :
+- Railway : Api deployment
+- REST API
+- Swagger
 
 ### Frontend
 
@@ -146,9 +148,9 @@ enum Status {
 - React Hook Form : Register component
 - React Icons :
 - Tailwind : Styling
-- DaisyUI : Styled interactive components
 - Shadcn/ui : Styled interactive components
 - React : UI library
+- Axios : fetching api
 - Vercel : App deployment
 
 ## Setup
