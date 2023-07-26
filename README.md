@@ -8,6 +8,8 @@ Check out:
 - Repo:
 - Progress:
 
+1. Figma : https://www.figma.com/file/wkys7TpKtRP2AcoYXtDvZo/FEASTIVAL?type=design&node-id=0-1&mode=design&t=RzWDwlGkI0PgVU4h-0
+
 ## Concept
 
 🎉 FEASTIVAL allow to:
