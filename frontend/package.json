@@ -34,7 +34,7 @@
     "@tanstack/react-query-devtools": "^4.0.0",
     "autoprefixer": "^10.0.0",
     "daisyui": "^3.4.0",
-    "eslint-config-prettier": "^8.0.0",
+    "eslint-config-prettier": "^8.8.0",
     "postcss": "^8.0.0",
     "prettier": "^2.0.0",
     "react-icons": "^4.8.0",
