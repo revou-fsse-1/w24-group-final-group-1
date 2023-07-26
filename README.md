@@ -130,15 +130,14 @@ enum Status {
 
 ## Tech Stack
 
-- React : UI library
 - TypeScript : Typed language Related to JavaScript, HTML, CSS
-- Vercel : App deployment
 
 ### Backend
 
 - NestJs : Framework
 - PostgreSQL : Database management system
 - Prisma ORM : Database ORM
+- DigitalOcean : Api deployment
 - Swagger :
 
 ### Frontend
@@ -149,6 +148,8 @@ enum Status {
 - Tailwind : Styling
 - DaisyUI : Styled interactive components
 - Shadcn/ui : Styled interactive components
+- React : UI library
+- Vercel : App deployment
 
 ## Setup
 
