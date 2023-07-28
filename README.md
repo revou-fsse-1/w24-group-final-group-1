@@ -45,6 +45,31 @@ Check out:
 - Logged-in visitors to delete reminder history if they decide not to attend a concert or have already attended it.
 - Logged-in visitors to create threads and comment on threads in the community.
 
+## Tech Stack
+
+- TypeScript : Typed language Related to JavaScript, HTML, CSS
+
+### Backend
+
+- NestJs : Framework
+- PostgreSQL : Database management system
+- Prisma ORM : Database ORM
+- DigitalOcean : Database deployment
+- Render : Api deployment
+- REST API
+- Swagger
+
+### Frontend
+
+- Next.js : Framework
+- React Hook Form : Register component
+- React Icons :
+- Tailwind : Styling
+- Shadcn/ui : Styled interactive components
+- React : UI library
+- Axios : fetching api
+- Vercel : App deployment
+
 ## Data Model
 
 ![](/assets/data-model.png)
@@ -161,31 +186,6 @@ model Status {
 }
 
 ```
-
-## Tech Stack
-
-- TypeScript : Typed language Related to JavaScript, HTML, CSS
-
-### Backend
-
-- NestJs : Framework
-- PostgreSQL : Database management system
-- Prisma ORM : Database ORM
-- DigitalOcean : Database deployment
-- Render : Api deployment
-- REST API
-- Swagger
-
-### Frontend
-
-- Next.js : Framework
-- React Hook Form : Register component
-- React Icons :
-- Tailwind : Styling
-- Shadcn/ui : Styled interactive components
-- React : UI library
-- Axios : fetching api
-- Vercel : App deployment
 
 ## References
 
