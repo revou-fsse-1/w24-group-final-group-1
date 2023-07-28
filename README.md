@@ -55,7 +55,7 @@ Check out:
 - PostgreSQL : Database management system
 - Prisma ORM : Database ORM
 - DigitalOcean : Database deployment
-- Render : Api deployment
+- Railway : Api deployment
 - REST API
 - Swagger
 
