@@ -1,5 +1,7 @@
 # 🎉 FEASTIVAL
 
+![](/assets/hero.png)
+
 Welcome to FEASTIVAL, your ultimate Event Tracker platform, where simplicity and user-friendliness converge to bring you a seamless event discovery experience like never before! Whether you are a music enthusiast, an avid concert-goer, or simply someone looking for exciting events in your area, FEASTIVAL has got you covered.
 
 Join the community now at [feastival.fun](https://feastival.fun/)
@@ -22,24 +24,30 @@ FEASTIVAL leverages the following tech stack to ensure a top-notch experience:
 - Backend: NestJs, PostgreSQL, Prisma ORM, DigitalOcean, Railway, REST API, Swagger
 
 - Frontend: Next.js, React Hook Form, React Icons, Tailwind, Shadcn/ui, React, Axios, Vercel
+
+## Our Organization Repo
+
+- Frontend Repository : https://github.com/feastival/feastival-frontend
+
+- Backend Repository : https://github.com/feastival/feastival-backend
+
 ## Data Model
 
 Our data model is designed to ensure smooth interactions and seamless data management. From users and artists to events and categories, everything is well-connected for a holistic user experience.
 
 ![Data Model](/assets/data-model.png)
 
-
 ## Our Team
 
 Meet the masterminds behind FEASTIVAL:
 
-| Name            | Role                      |
-| :-------------- | :------------------------ |
-| Dandi Rizky     | Lead & Frontend Developer |
-| Indra Setiadhi  | Backend Developer         |
-| Mesel Ghea      | Frontend Developer        |
-| Niken Hapsari   | Backend Developer         |
-| Okky Anggoro    | Frontend Developer        |
+| Name           | Role                      |
+| :------------- | :------------------------ |
+| Dandi Rizky    | Lead & Frontend Developer |
+| Indra Setiadhi | Backend Developer         |
+| Mesel Ghea     | Frontend Developer        |
+| Niken Hapsari  | Backend Developer         |
+| Okky Anggoro   | Frontend Developer        |
 
 ## Contributing
 
